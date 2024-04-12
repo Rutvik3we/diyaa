@@ -1,0 +1,86 @@
+/* Style for the outer card */
+.EductionCard {
+    box-shadow: 0px 0px 15px 0px #a1969673;
+    border: none;
+    margin-bottom: 23px;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: antiquewhite;
+    width: 100%; /* Ensures card spans the entire width */
+    max-width: 905px; /* Limits the maximum width of the card */
+}
+
+/* Style for individual inside cards */
+.InsideCard {
+    background-color: #ffffff; /* Set background color for inside cards */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+/* Additional styles for the inside card content */
+.Educationdata {
+    color: #b15757;
+    text-align: left;
+    margin-top: 15px;
+}
+
+.FiledName {
+    color: #000000;
+    font-weight: 600;
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+
+.Data {
+    color: #000000;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.family-members-title {
+    text-align: center; /* Align title to center */
+    font-weight: bold;
+    font-size: 45; /* Make title bold */
+}
+
+.add-members-button {
+    float: right; /* Align button to right */
+    background-color: #e1dbdb; /* Change button color */
+    border: none;
+    color: rgb(0, 0, 0); /* Change text color to white for better contrast */
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.education-button {
+    background-color: #e1dbdb; /* Change button color */
+    border: none;
+    color: black; /* Change text color to black for better contrast */
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px; /* Add spacing between buttons */
+}
+
+.occupation-button {
+    background-color:  #e1dbdb; /* Change button color */
+    border: none;
+    color: black; /* Change text color to black for better contrast */
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}

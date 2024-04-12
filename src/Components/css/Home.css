@@ -1,0 +1,23 @@
+.carousel{
+
+    height: 850px;
+    width: 850px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.text{
+    color:black;
+    margin-left: 75%;
+    margin-top: -50%;
+}
+
+
+.gradient-custom-2{
+    margin-right: 40%;
+    background-color: antiquewhite;
+}
+
+.card{
+    width: 90%;
+    height: 90%;
+}
